@@ -1,0 +1,259 @@
+C:\Users\seung\OneDrive\바탕 화면\C조교\실습풀이\7장 피드백\Team\Team\bin\Debug\Team.exe.config
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\bin\Debug\Team.exe.config
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\bin\Debug\Team.exe
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\bin\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.csprojResolveAssemblyReference.cache
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.csproj.GenerateResource.Cache
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.exe
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\Team\Team\bin\Debug\Team.exe.config
+C:\Users\seung\OneDrive\바탕 화면\Team\Team\obj\Debug\Team.exe
+C:\Users\seung\OneDrive\바탕 화면\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.Modification.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\팀플 학생 선생 삽입 완성\Team\Team\obj\Debug\Team.ModificationLecture.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.Modification.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.ModificationLecture.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\팀플 0516\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.Modification.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.ModificationLecture.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\팀플 0519\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.Modification.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.ModificationLecture.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\Team (3)\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.Modification.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.ModificationLecture.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team 0526 1\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.Modification.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.ModificationLecture.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team (5)\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\팀프로젝트\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team (6) - 복사본\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team 0603 311\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\bin\Debug\Team.exe.config
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.exe
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\bin\Debug\Team.exe
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\bin\Debug\Team.pdb
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.csprojResolveAssemblyReference.cache
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\seung\OneDrive\문서\카카오톡 받은 파일\Team\Team\obj\Debug\Team.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\Team 0604 0422\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\sdds\sdds\Sample\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\주석\Team\Team\bin\Debug\Team.exe.config
+C:\Users\user\Desktop\ww\주석\Team\Team\bin\Debug\Team.exe
+C:\Users\user\Desktop\ww\주석\Team\Team\bin\Debug\Team.pdb
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.exe
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.pdb
+C:\Users\user\Desktop\ww\주석\Team\Team\obj\Debug\Team.View.ExtraNotice.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\bin\Debug\Team.exe.config
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.exe
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\bin\Debug\Team.exe
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\bin\Debug\Team.pdb
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.csprojResolveAssemblyReference.cache
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.View.ChangeTeacherForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.Form1.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.InsertForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.InsertLecture.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.View.LectureForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.ListForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.LoginForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.Properties.Resources.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.StudentForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.TeacherForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.csproj.GenerateResource.Cache
+C:\Users\seung\OneDrive\바탕 화면\C#\최종\Team\Team\obj\Debug\Team.View.NoticeForm.resources
+C:\Users\seung\OneDrive\바탕 화면\C#\최종팀플\Team\Team\bin\Debug\Team.exe.config
+C:\Users\seung\OneDrive\바탕 화면\C#\최종팀플\Team\Team\obj\Debug\Team.exe
+C:\Users\seung\OneDrive\바탕 화면\C#\최종팀플\Team\Team\obj\Debug\Team.pdb
